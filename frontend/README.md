@@ -13,3 +13,5 @@ npm run dev
 // npm run build
 ```
 
+--------------------
+B2: Modified files manually for test of Project Management 
